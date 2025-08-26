@@ -1,0 +1,10 @@
+[theme]
+# Dark base + violet/blue accents
+base = "dark"
+primaryColor = "#8B5CF6"            # violet-500 (accent for buttons/sliders)
+backgroundColor = "#0B0F1A"         # near-black background
+secondaryBackgroundColor = "#11172A" # card background
+textColor = "#E6EAF3"               # soft light text
+
+[server]
+headless = true
